@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.act_img {
+    width: 150px;
+    height: 150px;
+}
+
+.p {
+    width: 150px;
+}
